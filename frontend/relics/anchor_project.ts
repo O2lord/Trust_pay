@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/anchor_project.json`.
  */
 export type AnchorProject = {
-  "address": "CtvFQBDX6GdgDL5tS8spw7rZomT2ZwAxm6C9UaEe6hxo",
+  "address": "6fhEuzQ54WFq1fq2BwPp3GLC23NJsswPResuwdoq41Bs",
   "metadata": {
     "name": "anchorProject",
     "version": "0.1.0",
