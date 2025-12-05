@@ -2,7 +2,7 @@
 
 **Deployed Frontend URL:** https://trustpaay.netlify.app/
 
-**Solana Program ID:** CtvFQBDX6GdgDL5tS8spw7rZomT2ZwAxm6C9UaEe6hxo
+**Solana Program ID:** 6fhEuzQ54WFq1fq2BwPp3GLC23NJsswPResuwdoq41Bs
 
 ## Project Overview
 
